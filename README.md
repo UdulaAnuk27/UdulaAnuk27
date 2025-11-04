@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UdulaAnuk27&label=Profile%20views&color=0e75b6&style=flat" alt="UdulaAnuk27" /> </p>
 
-- 🤝 I’m an Graduate at **Cardiff Metropolitan University / ICBT Campus**
+- 🤝 I’m an Undergraduate at **Cardiff Metropolitan University UK / ICBT Campus**
 
 - 🌱 I’m currently learning **Java**
 
