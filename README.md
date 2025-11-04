@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udula Anuk</h1>
 <h3 align="center">Undergraduate student BSc(Hons) Software Engineering student at Cardiff Metropolitan University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethiya19&label=Profile%20views&color=0e75b6&style=flat" alt="chethiya19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UdulaAnuk27&label=Profile%20views&color=0e75b6&style=flat" alt="UdulaAnuk27" /> </p>
 
 - 🤝 I’m an Graduate at **Cardiff Metropolitan University / ICBT Campus**
 
