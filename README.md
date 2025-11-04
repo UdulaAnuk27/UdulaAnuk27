@@ -5,7 +5,7 @@
 
 - 🤝 I’m an Undergraduate at **Cardiff Metropolitan University UK / ICBT Campus**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **udulaanuk27@gmail.com**
 
